@@ -1,4 +1,4 @@
-# CodSoft_CPP_Programming_Internship
+# CODSOFT INTERNSHIP PROGRAM
 Projects On C++ Programming Internship
 
 Task 1 -> NUMBER GUESSING GAME
